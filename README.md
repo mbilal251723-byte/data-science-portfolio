@@ -5,7 +5,7 @@ This project focuses on analyzing an e-commerce dataset to extract meaningful bu
 
 The goal is to move beyond sales analysis and focus on **profit-driven decision making**.
 
----
+
 
 ## 📁 Dataset Information
 The dataset includes:
@@ -14,7 +14,7 @@ The dataset includes:
 - Product details (Category, Sub-Category)
 - Financial metrics (Sales, Profit, Discount)
 
----
+
 
 ## 🧹 Data Preprocessing
 - Handled missing values
@@ -23,7 +23,7 @@ The dataset includes:
 - Replaced infinite values
 - Engineered financial features
 
----
+
 
 ## ⚙️ Feature Engineering
 Key features created:
@@ -33,7 +33,7 @@ Key features created:
 - Price per Unit
 - Sales to Profit Ratio
 
----
+
 
 ## 📊 Exploratory Data Analysis (EDA)
 Key insights:
@@ -42,7 +42,6 @@ Key insights:
 - Discounts strongly impact profitability
 - Outliers exist in both sales and profit distributions
 
----
 
 ## 🤖 Machine Learning Models
 
@@ -55,21 +54,21 @@ Key insights:
   - Profit (0)
   - Loss (1)
 
----
+
 
 ## 📈 Key Results
 - Discount is the most influential factor in losses
 - Certain product categories are consistently underperforming
 - Profit is highly sensitive to pricing strategy
 
----
+
 
 ## ⚠️ Limitations
 - No cost structure available (true profit not fully accurate)
 - Some engineered features may cause leakage
 - Model trained only on historical data
 
----
+
 
 ## 🚀 Future Improvements
 - Use advanced models (XGBoost / LightGBM)
@@ -77,7 +76,7 @@ Key insights:
 - Deploy model as web app
 - Perform hyperparameter tuning
 
----
+
 
 ## 🧠 Tech Stack
 - Python
@@ -85,7 +84,7 @@ Key insights:
 - Scikit-learn
 - Matplotlib, Seaborn
 
----
+
 
 ## 👨‍💻 Author
-Data Science Portfolio Project by Bilal# data-science-portfolio
+Data Science Portfolio Project by Muhammad Bilal# data-science-portfolio
